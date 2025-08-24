@@ -1,9 +1,10 @@
 
 <p align="center">
   <a href="https://github.com/akshat770">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F72CDA&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Akshat+Singh;Web+Developer;NIT+Srinagar+Student+🎓" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F72CDA&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Akshat+Singh;Web+Developer+🚀;NIT+Srinagar+Student+🎓" />
   </a>
 </p>
+
 
 ---
 
@@ -17,7 +18,7 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
