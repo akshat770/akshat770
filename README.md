@@ -1,7 +1,4 @@
 
-<!-- Banner -->
-<img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="Cool Banner" />
-
 <p align="center">
   <a href="https://github.com/akshat770">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F72CDA&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Akshat+Singh;NIT+Srinagar+Student+🎓" />
