@@ -40,8 +40,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat770/akshat770/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat770&theme=tokyo-night" />
 </p>
 
+---
