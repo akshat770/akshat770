@@ -42,3 +42,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshat770/akshat770/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
