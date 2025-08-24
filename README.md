@@ -1,4 +1,4 @@
-# AkshatSingh
+# Akshat Singh
 
 <h1 align="center">Hi 👋, I'm Akshat Singh</h1>
 <h3 align="center">🚀 A passionate Web Developer & DSA Learner from Jammu,Jammu & Kashmir</h3>
