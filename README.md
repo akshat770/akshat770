@@ -21,12 +21,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat770&show_icons=true&theme=radical" alt="stats" height="165"/>
-</p>
 
 ---
 
